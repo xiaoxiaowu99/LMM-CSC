@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/GAOKAO-Bench-main/data/Multiple-choice_Question_noise15%/gpt-3.5-turbo_2010-2022_Math_II_MCQs/gpt-3.5-turbo_seperate_2010-2022_Math_II_MCQs_0-217.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gptcsc/data/sighan15_check_data.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gptcsc/data/sighan_result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gptcsc/data/sighan_result1_zeroshot.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gptcsc/data/sighan_result2_zeroshot.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gptcsc/output/sighan_result1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gptcsc/output/sighan_result1_zeroshot.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gptcsc/output/sighan_result2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gptcsc/output/sighan_result2_zeroshot.txt" charset="GBK" />
+  </component>
+</project>
